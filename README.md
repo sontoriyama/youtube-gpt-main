@@ -102,7 +102,7 @@ These dependencies are required to install with the requirements.txt file:
 * openai-whisper
 
 ```bash
-pip install -r requirements.txt
+
 ```
 3. Run the Streamlit server
 
