@@ -104,8 +104,6 @@ array = []
 
 st.markdown('<h1>Youtube GPT 🤖<small> by <a href="https://codegpt.co">Code GPT</a></small></h1>', unsafe_allow_html=True)
 st.write("Start a chat with this video of Microsoft CEO Satya Nadella's interview. You just need to add your OpenAI API Key and paste it in the 'Chat with the video' tab.")
-
-DEFAULT_WIDTH = 80
 VIDEO_DATA = "https://youtu.be/bsFXgfbj8Bc"
 
 width = 40
